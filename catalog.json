@@ -1,15 +1,17 @@
 {
 	"packages": {
 		"AudioVisualizer": {
-			"hash": "73faba2c09ba5180db12e9a1d2a3e3bc2f86275d6b230d89623c7319705f84ea",
-			"size": 5600,
-			"url": "https://github.com/Wudafk/pixel-rooms-content/raw/refs/heads/main/AudioVisualizer.pck"
+			"hash": "6d9a4f2bce97aa3b39e39dc91364b696193e8e0f2c93abb7656aa4ec6e0aa2f9",
+			"size": 6048,
+			"source_origin": "res://games_test/",
+			"url": "/Users/novaeiz/Wudafk/GameDev/Netflix/pixel-rooms/exports/pck/AudioVisualizer.pck"
 		},
 		"ColorRush": {
-			"hash": "5bc47492092f8146dc7183a4a85f6c5f3358a4a2a4d2e51912b195360e496c0b",
-			"size": 3637248,
-			"url": "https://github.com/Wudafk/pixel-rooms-content/raw/refs/heads/main/ColorRush.pck"
+			"hash": "8fa3ec9915ca1b7f5e916b82594c6ad8043792c34089132b1ad58ec4ad88c852",
+			"size": 3573248,
+			"source_origin": "res://games/",
+			"url": "/Users/novaeiz/Wudafk/GameDev/Netflix/pixel-rooms/exports/pck/ColorRush.pck"
 		}
 	},
-	"version": "1775155960.8402"
+	"version": "1775390761.91031"
 }
