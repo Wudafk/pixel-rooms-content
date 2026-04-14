@@ -7,11 +7,11 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/AudioVisualizer.pck"
 		},
 		"ColorRush": {
-			"hash": "b8453290ebc705fbcf97edfd8b291ed7ccf6e8bbcd5c20b79130ba4b1c46e19a",
-			"size": 3557792,
+			"hash": "a1d0a0d3b74d0ca58f77c719c8f6f5f92983c0a5f2b49b2fe93b88ed5cb09771",
+			"size": 3557696,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		}
 	},
-	"version": "1776184463.40962"
+	"version": "1776199317.25562"
 }
