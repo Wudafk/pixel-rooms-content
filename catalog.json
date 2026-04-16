@@ -13,11 +13,11 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		},
 		"PixelDuel": {
-			"hash": "7b4303eb439c59715aaa3571fabcfe8e330fd1189068b5eb50a5571bc3da1e96",
+			"hash": "f4311bac33dcc9f0c7764924652d0ba6234c74dd82f71d56f0301becb8b29181",
 			"size": 63392,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/PixelDuel.pck"
 		}
 	},
-	"version": "1776349284.64821"
+	"version": "1776364572.43054"
 }
