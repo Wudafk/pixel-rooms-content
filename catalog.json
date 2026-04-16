@@ -7,17 +7,17 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/AudioVisualizer.pck"
 		},
 		"ColorRush": {
-			"hash": "a94f2b804393c9b5424332b29712c705f33c3451bd1ade1323a2c5bc05985ee7",
-			"size": 3555136,
+			"hash": "8d84ee40e3e810183035f645667054a3d02b0282c4a9c9418fe5baf74b3a0219",
+			"size": 3555680,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		},
 		"PixelDuel": {
-			"hash": "0509ed962130f94c93a0bec212560c6d995ed52f6e31303acc51f797f2f1a69c",
-			"size": 54496,
+			"hash": "a1a47af0e8d45ea55c689ac21280561daf622a592879e0fb7035154730421754",
+			"size": 69792,
 			"source_origin": "res://games_test/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/PixelDuel.pck"
 		}
 	},
-	"version": "1776278280.44227"
+	"version": "1776330085.70181"
 }
