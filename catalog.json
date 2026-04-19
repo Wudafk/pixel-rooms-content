@@ -7,7 +7,7 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		},
 		"PixelArena": {
-			"hash": "7b52b76723d96f27d53b6d322fbf8db83502770aeafdc394dd702ee01a5bd397",
+			"hash": "721c85f951f07dbae633e310a41f881235060ac734bafdc946e289d53f015bd1",
 			"size": 84608,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/PixelArena.pck"
@@ -19,5 +19,5 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/Playground.pck"
 		}
 	},
-	"version": "1776624049.70808"
+	"version": "1776624090.54361"
 }
