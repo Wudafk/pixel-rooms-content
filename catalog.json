@@ -1,14 +1,14 @@
 {
 	"packages": {
 		"ColorRush": {
-			"hash": "a808ab944ef52a12ea92fdb8e6435798f57f427a43b95a3570cac05988fe65ad",
-			"size": 3557056,
+			"hash": "71e90d64b3073c7e3735e59ad0cd2ca7856157d0e0d5fbd0884a02817cc34cf3",
+			"size": 3567840,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		},
 		"PixelArena": {
-			"hash": "721c85f951f07dbae633e310a41f881235060ac734bafdc946e289d53f015bd1",
-			"size": 84608,
+			"hash": "580387fb37fba2fe9b8533abfa847ae553f961c89da840cef536e7d67869f032",
+			"size": 86368,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/PixelArena.pck"
 		},
@@ -19,5 +19,5 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/Playground.pck"
 		}
 	},
-	"version": "1776624090.54361"
+	"version": "1776651098.9493"
 }
