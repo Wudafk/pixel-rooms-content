@@ -6,6 +6,12 @@
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		},
+		"MemoryGlitch": {
+			"hash": "c943a143e05b2f1fae0f40b1f519e9e7669870a96d8e232093f48623d2e3ddae",
+			"size": 2715232,
+			"source_origin": "res://games/",
+			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/MemoryGlitch.pck"
+		},
 		"PixelArena": {
 			"hash": "966ee9d0ea303aefcd3e1907945850f18d8b61835f79a694cc648d268799f81e",
 			"size": 2808416,
@@ -19,5 +25,5 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/Playground.pck"
 		}
 	},
-	"version": "1776739029.40444"
+	"version": "1776795776.35764"
 }
