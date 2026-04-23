@@ -6,8 +6,14 @@
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		},
+		"FloorIsLava": {
+			"hash": "39328d592442a2d01c5089881cf2cf716408864d8bb828de4f3ba72b7ca6c83f",
+			"size": 2701664,
+			"source_origin": "res://games/",
+			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/FloorIsLava.pck"
+		},
 		"MemoryGlitch": {
-			"hash": "291dfe844413b13a81ee39a460458e15d5654d0622377f987120a79338a787b8",
+			"hash": "d373990c142c4be111246655de85c69bcd8a398ad2f4f6996051b03b3f353869",
 			"size": 2713856,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/MemoryGlitch.pck"
@@ -25,5 +31,5 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/Playground.pck"
 		}
 	},
-	"version": "1776806907.4904"
+	"version": "1776967964.30447"
 }
