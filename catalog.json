@@ -13,8 +13,8 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/FloorIsLava.pck"
 		},
 		"MemoryGlitch": {
-			"hash": "0ce2c35bf79d57729df35b1ce24aed4562c67f7cac1ea2bf1d516e82c89744b4",
-			"size": 22986048,
+			"hash": "89a18d564551894732cc49c73d1679a49f8c4dc44068f04a13e81cbdce7c125e",
+			"size": 27627200,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/MemoryGlitch.pck"
 		},
@@ -31,5 +31,5 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/Playground.pck"
 		}
 	},
-	"version": "1777304317.94833"
+	"version": "1777307977.65234"
 }
