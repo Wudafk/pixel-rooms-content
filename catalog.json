@@ -7,8 +7,8 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		},
 		"FloorIsLava": {
-			"hash": "a128dd4c6433c43c6ec19ab654a29a1aa9c39992e6a7e22eb225749ea8543bfd",
-			"size": 29467072,
+			"hash": "d0031aa1e167fdd266671dbbda74b048cd6431119f7a2232ca841e86c615412d",
+			"size": 29466848,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/FloorIsLava.pck"
 		},
@@ -37,5 +37,5 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/Playground.pck"
 		}
 	},
-	"version": "1777669018.33804"
+	"version": "1777669149.79441"
 }
