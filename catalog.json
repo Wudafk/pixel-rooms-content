@@ -25,8 +25,8 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/MemoryGlitch.pck"
 		},
 		"PixelArena": {
-			"hash": "19d9cfc073a579d22265eae2e062a6acfb2dbf8359fa8b8b3da270b7ce6f7422",
-			"size": 2808064,
+			"hash": "bad31faccb8449431aa69397cd83355ac62be832c4112f8f2e632bdffe3f9eea",
+			"size": 2809888,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/PixelArena.pck"
 		},
@@ -37,5 +37,5 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/Playground.pck"
 		}
 	},
-	"version": "1777750943.51557"
+	"version": "1777810081.42459"
 }
