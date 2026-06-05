@@ -1,8 +1,8 @@
 {
 	"packages": {
 		"ColorRush": {
-			"hash": "9aaeb08c8552a0c7da28f66067ce64274fedd185d8df7b5e0b1e4f378c9a1f5a",
-			"size": 3902144,
+			"hash": "6b97a5b5fba63c245aa6869983980b03e47f4cebe00c5cef0cdb8947adaf0225",
+			"size": 4175136,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		},
@@ -37,5 +37,5 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/Playground.pck"
 		}
 	},
-	"version": "1780635635.03497"
+	"version": "1780636917.03811"
 }
