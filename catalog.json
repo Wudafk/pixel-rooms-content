@@ -1,8 +1,8 @@
 {
 	"packages": {
 		"ColorRush": {
-			"hash": "6b97a5b5fba63c245aa6869983980b03e47f4cebe00c5cef0cdb8947adaf0225",
-			"size": 4175136,
+			"hash": "f1768c8143fe0bec3295a9b97ccc9cdb7f6943613f844da339aa7205a5225558",
+			"size": 4175232,
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/ColorRush.pck"
 		},
@@ -24,6 +24,12 @@
 			"source_origin": "res://games/",
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/MemoryGlitch.pck"
 		},
+		"MusicRhythm": {
+			"hash": "b64fc0d7029100494b610dc3a9afad3c75b126ffe2a241d97a1f29465c367700",
+			"size": 13532832,
+			"source_origin": "res://games/",
+			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/MusicRhythm.pck"
+		},
 		"PixelArena": {
 			"hash": "8127ec2d604e04da3ff5b78cd211b636908888803cbb274029d67bb1c4c8e9cf",
 			"size": 20924672,
@@ -37,5 +43,5 @@
 			"url": "https://raw.githubusercontent.com/Wudafk/pixel-rooms-content/refs/heads/main/Playground.pck"
 		}
 	},
-	"version": "1780636917.03811"
+	"version": "1781394766.62975"
 }
